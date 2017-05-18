@@ -9,7 +9,7 @@ IMAGES
 }
 
 .app-title {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Palatino', serif;
   font-weight: 300;
 }
 
@@ -19,7 +19,7 @@ IMAGES
 
 .heading {
   text-align: center;
-  font-family: 'Lato', sans-serif;
+  font-family: 'Palatino', serif;
   font-weight: 100;
   font-size: 48px;
   margin: 48px;
@@ -32,24 +32,26 @@ IMAGES
 }
 
 .header {
-  background-color: #293F50;
+  background-color: #660000;
   margin-bottom: 32px;
 }
 
 .b-head {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Palatino', serif;
   text-align: center;
   margin: 20px 0 0 0;
 }
 
 .c-head {
-  font-family: 'Lato', sans-serif;
+  font-family: 'Palatino', serif;
   text-align: center;
   margin: 10px;
 }
 
 .app-desc {
   margin-top: 18px;
+  width: 82%;
+  text-align: justify;
 }
 
 .app-photo {
