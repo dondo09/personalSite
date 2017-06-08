@@ -1,0 +1,4 @@
+{
+  "command": "node personalSite/server/server.js",
+  "mode": "rolling"
+}
